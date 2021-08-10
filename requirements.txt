@@ -1,0 +1,2 @@
+openai~=0.6.4
+discord~=1.7.3
