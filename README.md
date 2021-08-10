@@ -10,7 +10,7 @@ This program handles interfacing with the OpenAI API. Based on a prexisting prom
 This program implements the Bot class from chatbot.py as a Discord bot. By mentioning the bot on a Discord server or in a DM, GPT3 will attempt to generate a reply to the message. 
 
 ## Setup 
-1. Install the openai and discord python libraries
+1. Install the openai and discord Python libraries
 2. Enter your OpenAI API key in key.py
 3. (skip this step if you are not using the Discord feature) Enter your Discord bot token in config.py, along with the bot status and prompt (can be a simple description of a person and their personality)
-4. Run discord.py or chatbot.py
+4. Run discord.py or chatbot.py, depending on which you want to use
