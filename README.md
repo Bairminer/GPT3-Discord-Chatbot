@@ -1,6 +1,8 @@
 # GPT3 Discord Bot
 GPT3/OpenAI API chatbot for Discord. Requires an OpenAI API key.
 
+![Sample](images/convo.png)
+
 ## chatbot.py
 This program handles interfacing with the OpenAI API. Based on a prexisting prompt (can be edited by changing the header argument of the Bot class), GPT3 will attempt to complete the conversation and respond to the user's input. Previous conversation lines are then added to the prompt, in order to give GPT3 context to generate further replies. This feature can be disabled, however it may result in less predicatable replies. This program can be run standalone in the terminal. Also implemented is the ability to save conversations as PKL files, which can then be loaded to continue the conversation.
 
