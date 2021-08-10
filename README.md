@@ -1,5 +1,5 @@
 # GPT3 Discord Chatbot
-GPT3/OpenAI API chatbot for Discord. Requires an OpenAI API key.
+GPT3/OpenAI API chatbot for Discord, with easily customizable personality. Requires an OpenAI API key.
 
 ![Sample](images/convo.png)
 
