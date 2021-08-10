@@ -12,5 +12,5 @@ This program implements the Bot class from chatbot.py as a Discord bot. By menti
 ## Setup 
 1. Install the openai and discord Python libraries
 2. Enter your OpenAI API key in key.py
-3. (skip this step if you are not using the Discord feature) Enter your Discord bot token in config.py, along with the bot status and prompt (can be a simple description of a person and their personality)
+3. (skip this step if you are not using the Discord feature) Enter your Discord bot token in config.py, along with the bot's Discord status and initial prompt (can be a simple description of a person and their personality)
 4. Run discord.py or chatbot.py, depending on which you want to use
